@@ -1,0 +1,49 @@
+# en: English
+index:
+  menu: メニュー
+  tags: タグ
+  friends: Friends
+  about: About Me
+  more: more
+  copy: コピー
+
+# Tables of Contents
+toc:
+  title: コンテンツ
+  hide: 隠す
+  show: 表示
+
+visit_counter:
+  site: Site Visitors
+  page: Page Hits
+
+copyright_info:
+  title: タイトル
+  author: 著者
+  date: Created
+  updated: 更新
+  url: Full URL
+  from: From
+  by: By
+  license: License
+  cc: "CC BY-NC-SA 4.0"
+  notice: "Keep Link & Author if Distribute."
+
+tooltip:
+  tocButton: Show or Hide Table of Contents
+  back2home: Back to Homepage
+  nextPost: Next
+  prePost: Pre
+  miniArchives: Mini Archives
+  back2top: Back to Top
+  jump2comments: Comments
+  go2bottom: Go to Bottom
+  copyPath: "Copy Article's Link & Author"
+  Hexo: "A fast, simple & powerful blog framework"
+  Yelee: Another simple and elegant theme for Hexo
+
+tag_cloud:
+  already: " "
+  categories: Categories, 
+  total: " "
+  tags: Tags
