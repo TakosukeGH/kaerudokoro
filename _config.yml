@@ -12,7 +12,8 @@ timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+# url: http://yoursite.com
+url: https://kaerudokoro.netlify.com/
 root: /
 permalink: :category/:id/
 permalink_defaults:
@@ -78,3 +79,7 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+
+exclude_generators:
+- index
