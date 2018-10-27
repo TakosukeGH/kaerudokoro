@@ -16,6 +16,8 @@ twitter_script: true
 tweet: true
 ---
 
+<img src="/blender/vmd_exporter/twitter.png">
+
 # はじめに
 
 Blenderのモーションデータをvmd形式で出力するスクリプトを作成したので、
